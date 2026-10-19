@@ -17,6 +17,7 @@ source: https://www.kaggle.com/code/akbar909/ecommerce-consumer-behavior-analysi
 -jupyter
 
 ## 6.Project Structure
+```text
 K-Means-Customer-Segmentation/
 ├── data/
 │   └── Ecommerce_Consumer_Behavior_Analysis_Data.csv
@@ -25,7 +26,7 @@ K-Means-Customer-Segmentation/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 ## 7.Installation
 
 ## 8.Results
